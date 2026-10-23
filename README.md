@@ -31,3 +31,6 @@ On linux, you can use ```hostname -I``` to get the local IP you need to connect 
 
 **NOTE:**
 If you're running the client on the same machine as the server, connect to the server from neovim using ```:QwenSetHTTPServerURL http://localhost/server``` instead of the ip.
+
+## Attribution
+This project uses **json.lua** by rxi, at https://github.com/rxi/json.lua
