@@ -1,0 +1,10 @@
+[X] Write a function in utils.lua to convert a Lua table into JSON
+[X] Allow sending arbitrary parameters to server (within memory limit) via JSON
+[X] Enable receiving arbitrary parameters from server via JSON parsing
+[X] Get "QwenEdit" functionality working
+[X] Post to GitHub
+[ ] Allow insert/edit functions to use chat context
+[ ] Add multi-file context
+[ ] Compatability with standard neovim plugin management tools
+[ ] Add authentication mechanism
+[ ] Update "QwenChat" functionality to only preserve the context for the most recent revision of the code in memory, should make "QwenChatNSC" unnecessary 
