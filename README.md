@@ -21,6 +21,7 @@ Simply clone the repo, go into `client` and run `bash ./install.sh` and the necc
 For the most part, **Qwen** and maybe **QwenChat** would probably be the only commands you'd need to use on a regular basis.
 
 **Server installation instructions:**
+
 On your LLM capable hardware, clone the repo and this time go into `server` and run `run.sh`.
 
 This will automatically install the needed dependencies upon first execution.
