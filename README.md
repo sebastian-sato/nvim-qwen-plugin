@@ -28,4 +28,4 @@ This will automatically install the needed dependencies upon first execution.
 On linux, you can use ```hostname -I``` to get the local IP you need to connect to. If you're not on the same network as the server, you'll need to use a VPN like Tailscale, or use port forwarding (not recommended if the server is publicly hosted, since there is currently no authentication mechanism, that's on the TODO list :P)
 
 **NOTE:**
-If you're running the client on the same machine as the server, connect to the server from neovim using ```QwenSetHTTPServerURL http://localhost/server``` instead of the ip.
+If you're running the client on the same machine as the server, connect to the server from neovim using ```:QwenSetHTTPServerURL http://localhost/server``` instead of the ip.
