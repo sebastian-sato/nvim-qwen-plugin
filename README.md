@@ -4,10 +4,10 @@ After making that incredibly simplistic "software scaffolding LLM", I wanted to 
 
 I've found it to be somewhat useful for my own work since I'm not particularly inclined to pay for a subscription to a model provider. I still don't think anyone else would want to use this since it's still incredibly limited in its capabilities compared to the plethora of open source options available, but it was fun to make :)
 
-**Client installation instructions**
+## Client installation instructions
 Simply clone the repo, go into `client` and run `bash ./install.sh` and the neccessary files in your nvim configuration will automatically be created. 
 
-**Setup**
+## Setup
 1. Once installed, open neovim, press ':' and type 'Qwen', then press Tab.
 2. You should see several options appear, choose QwenSetHTTPServerURL, and press enter.
 3. Finally, type in a URL of the format: ```http://<server-ip>/server```, replacing <server-ip> with the IP of the machine running the local LLM server contained within this repository (instructions for setting that up will come next)
@@ -20,7 +20,7 @@ Simply clone the repo, go into `client` and run `bash ./install.sh` and the necc
 
 For the most part, **Qwen** and maybe **QwenChat** would probably be the only commands you'd need to use on a regular basis.
 
-**Server installation instructions:**
+## Server installation instructions:
 
 On your LLM capable hardware, clone the repo and this time go into `server` and run `run.sh`.
 
