@@ -7,7 +7,7 @@ I've found it to be somewhat useful for my own work since I'm not particularly i
 ## Client installation instructions
 Simply clone the repo, go into `client` and run `bash ./install.sh` and the neccessary files in your nvim configuration will automatically be created. 
 
-## Setup
+### Setup
 1. Once installed, open neovim, press ':' and type 'Qwen', then press Tab.
 2. You should see several options appear, choose QwenSetHTTPServerURL, and press enter.
 3. Finally, type in a URL of the format: ```http://<server-ip>/server```, replacing <server-ip> with the IP of the machine running the local LLM server contained within this repository (instructions for setting that up will come next)
