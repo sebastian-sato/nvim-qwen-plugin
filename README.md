@@ -4,7 +4,8 @@ After making that incredibly simplistic "software scaffolding LLM", I wanted to 
 
 I've found it to be somewhat useful for my own work since I'm not particularly inclined to pay for a subscription to a model provider. I still don't think anyone else would want to use this since it's still incredibly limited in its capabilities compared to the plethora of open source options available, but it was fun to make :)
 
-## Client installation instructions
+## Client installation instructions:
+
 Simply clone the repo, go into `client` and run `bash ./install.sh` and the neccessary files in your nvim configuration will automatically be created. 
 
 ### Setup
