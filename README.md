@@ -1,6 +1,6 @@
 # NVIM Qwen Plugin
 
-<img src='./Screenshot%from%2026-10-23%15-25-42.png' width=60%>
+<img src='./Screenshot from 2026-10-23 15-25-42.png' width=60%>
 
 After making that incredibly simplistic "software scaffolding LLM", I wanted to try my hand at making something a little more useful. This is an implementation of a coding assistant for Neovim that, while still incredibly rudimentary (no agentic/autonomous code editing, no multi-file context, etc.), is a major step up from my previous attempt at the idea. 
 
