@@ -1,6 +1,6 @@
 # NVIM Qwen Plugin
 
-After making that incredibly simplistic "software scaffolsing LLM", I wanted to try my hand at making something a little more useful. This is an implementation of a coding assistant for Neovim that, while still incredibly rudimentary (no agentic/autonomous code editing, no multi-file context, etc.), is a major step up from my previous attempt at the idea. 
+After making that incredibly simplistic "software scaffolding LLM", I wanted to try my hand at making something a little more useful. This is an implementation of a coding assistant for Neovim that, while still incredibly rudimentary (no agentic/autonomous code editing, no multi-file context, etc.), is a major step up from my previous attempt at the idea. 
 
 I've found it to be somewhat useful for my own work since I'm not particularly inclined to pay for a subscription to a model provider. I still don't think anyone else would want to use this since it's still incredibly limited in its capabilities compared to the plethora of open source options available, but it was fun to make :)
 
